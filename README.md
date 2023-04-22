@@ -1,4 +1,4 @@
-<h3 align="center">The_Captain (Psuedo Name & Brand in making)</h3>
+<h3 align="center">Frontend Engineer & Computer Science Enthusiast</h3>
 
 
 - 🔭 I’m currently working on **BlackHooded Designers.**
