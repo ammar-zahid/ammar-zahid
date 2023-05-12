@@ -1,4 +1,4 @@
-<h1 align="center">Frontend Engineer & Web Artist</h1>
+<h1 align="center">Web Engineer % CS Enthusiast</h1>
 <h3 align="center">Psuedo & Socials: Captain_Artistic</h3>
 
 <p align="left"> <a href="https://twitter.com/captn_artistic" target="blank"><img src="https://img.shields.io/twitter/follow/captn_artistic?logo=twitter&style=for-the-badge" alt="captn_artistic" /></a> </p>
