@@ -1,11 +1,11 @@
 <h1 align="center">Web Enthusiast & CS Undergrad</h1>
-<h3 align="center">Psuedo & Socials: Captain_Artistic</h3>
+<!-- <h3 align="center">Psuedo & Socials: Captain_Artistic</h3> -->
 
 <p align="left"> <a href="https://twitter.com/captn_artistic" target="blank"><img src="https://img.shields.io/twitter/follow/captn_artistic?logo=twitter&style=for-the-badge" alt="captn_artistic" /></a> </p>
 
 - I’m currently learning **JavaScript**
 
-- <p dir="auto">All of my <strong>Projects</strong> are available at <a href="https://drive.google.com/file/d/1qVdUJLo4i9A_VA6911vJszT8HlcIIcjm/view?usp=sharing" rel="nofollow">Visit Portfolio..</a></p>
+- <p dir="auto">All of my <strong>Projects</strong> are available at <a href="https://ammar-zahid.github.io/Personal-Portfolio/" rel="nofollow">Visit Portfolio..</a></p>
 
 - Ask me about **Designing, Development and UI/UX**
 
