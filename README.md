@@ -1,7 +1,5 @@
 <h1 align="center">Frontend Enthusiast</h1>
 
-<p align="left"> <a href="https://twitter.com/ammar_zahid1" target="blank"><img src="https://img.shields.io/twitter/follow/ammar_zahid1?logo=twitter&style=for-the-badge" alt="ammar_zahid1" /></a> </p>
-
 - I’m currently learning **JavaScript & ReactJS**
 
 - <p dir="auto">All of my <strong>Projects</strong> are available at <a href="https://ammar-zahid.github.io/Personal-Portfolio/" rel="nofollow">Visit Portfolio..</a></p>
