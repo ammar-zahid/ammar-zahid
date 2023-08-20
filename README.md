@@ -16,6 +16,7 @@
 
 <h3 align="left">Find me on:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/ammar-zahid/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ammar-zahid/" height="30" width="40" /></a>
 <a href="https://twitter.com/ammar_zahid1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ammar_zahid1" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/ammar-zahid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="ammar-zahid" height="30" width="40" /></a>
 </p>
