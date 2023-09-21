@@ -9,7 +9,7 @@
 
 - How to reach me **ammarzahid304@gmail.com**
 
-- <p dir="auto">CV/Resume? <a href="https://docs.google.com/document/d/1-VmMNKML2zAmyhfSOPEq08EvRd5j5_sZ/edit?usp=drive_link&ouid=114405038325517065342&rtpof=true&sd=true" rel="nofollow">Here it is..</a></p>
+- <p dir="auto">CV/Resume? <a href="https://docs.google.com/document/d/1Wm3Tt7e6p0ul14mg06dirEc989wFEmXY/edit?usp=sharing&ouid=114405038325517065342&rtpof=true&sd=true" rel="nofollow">Here it is..</a></p>
 
 - Fun fact **I am Foodie.**
 - 
