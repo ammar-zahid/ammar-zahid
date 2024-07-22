@@ -1,11 +1,11 @@
-<h1 align="center">Frontend Enthusiast</h1>
+<h1 align="center">AI Enthusiast</h1>
 
 ## 👨‍💻 About Me:
-- I’m currently learning **React/Next JS**
+- I’m currently learning **Python**
 
 - <p dir="auto">All of my <strong>Projects</strong> are available at <a href="https://ammar-zahid.github.io/Personal-Portfolio/" rel="nofollow">Visit Portfolio..</a></p>
 
-- Ask me about **Frontend Development**
+- Ask me about **Frontend And AI**
 
 - How to reach me **ammarzahid304@gmail.com**
 
