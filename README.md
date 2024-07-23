@@ -1,5 +1,5 @@
 <h1 align="center">AI Enthusiast</h1>
-<h4 align="center">Call Me BOTMAN</h4>
+<h2 align="center">Call Me BOTMAN</h2>
 
 ## 👨‍💻 About Me:
 - I’m currently learning **Python**
