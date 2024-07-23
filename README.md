@@ -1,4 +1,4 @@
-<h1 align="center">BOTMANt</h1>
+<h1 align="center">BOTMAN</h1>
 
 ## 👨‍💻 About Me:
 - I’m currently learning **Python And AI**
