@@ -1,8 +1,7 @@
-<h1 align="center">AI Enthusiast</h1>
-<h2 align="center">Call Me BOTMAN</h2>
+<h1 align="center">BOTMANt</h1>
 
 ## 👨‍💻 About Me:
-- I’m currently learning **Python**
+- I’m currently learning **Python And AI**
 
 - <p dir="auto">All of my <strong>Projects</strong> are available at <a href="https://ammar-zahid.github.io/Personal-Portfolio/" rel="nofollow">Visit Portfolio..</a></p>
 
