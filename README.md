@@ -21,7 +21,7 @@
 
 
 ###
-# My Contributions
+
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/ammar-zahid/ammar-zahid/output/snake.svg" alt="Snake animation" />
